@@ -16,37 +16,37 @@
 
 <th>Page Title</th>
 
-<td>the search engines will truncate page title to 65 characters </td><br>
+<td>The search engines will truncate page title to 65 characters. </td><br>
 
 </tr>
 
 <tr>
 
-<th>meta description</th>
-<td>most search engines will truncate meta descriptions to 160 characters<td><br>
+<th>Meta Description</th>
+<td>Most search engines will truncate meta descriptions to 160 characters.<td><br>
 </tr>
 
 <tr>
 
-<th>keywords test</th>
-<td>search engine alogorithms have evolved beyond keyword density metrics as a significant ranking factor it can be useful however to note which keywords appear most often in the page and if they reflect the intended topic of your page more importantly the keywords in your page should appear within natural sounding and grammatically correct copy</td><br>
-
-</tr>
-
-<tr>
-
-<th>age</th>
-
-<td>28 fabruary 2017 05:00:00 utc</td><br>
+<th>Keywords Test</th>
+<td>Search engine alogorithms have evolved beyond keyword density metrics as a significant ranking factor it can be useful however to note which keywords appear most often in the page and if they reflect the intended topic of your page more importantly the keywords in your page should appear within natural sounding and grammatically correct copy.</td><br>
 
 </tr>
 
 <tr>
 
+<th>Age</th>
 
-<th>html page size test</th>
+<td>28th Feburuary 2017 05:00:00 utc</td><br>
 
-<td>10.24 kb</td><br>
+</tr>
+
+<tr>
+
+
+<th>HTML Page Size Test</th>
+
+<td>10.24 KB</td><br>
 
 </tr>
 
