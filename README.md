@@ -1,6 +1,6 @@
 # Indian-Army
 <html>
-#<marquee><b><i>Indian Army</i></b></marquee>
+#<b><i>Indian Army</i></b>
 <table>
 <tr>
 
