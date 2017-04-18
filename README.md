@@ -1,6 +1,6 @@
 # Indian-Army
 <html>
-#<b><i>Indian Army</i></b>
+#<marquee><b><i>Indian Army</i></b></marquee>
 <table>
 <tr>
 
@@ -47,29 +47,29 @@
 
 <tr>
 
-<th>html compreession test</th>
+<th>HTML Compression Test</th>
 
-<td>gzip compression</td>
+<td>GZip compression</td>
 
 </tr>
 
 <tr>
 
 
-<th>page rank</th>
+<th>Page Rank</th>
 <td>7</td>
 
 </tr>
 
 <tr>
 
-<th>image alt test</th>
+<th>Image ALT Test</th>
 <td>require 'alt'attribute</td>
 </tr>
 
 <tr>
 
-<th>site maps</th>
+<th>Site Maps</th>
 
 <td>1site map in this website</td>
 
@@ -77,7 +77,7 @@
 
 <tr>
 
-<th>google search preview</th>
+<th>Google Search Preview</th>
 
 <td>home  www.indianarmy.nic.in   skip to navigation skip to content indian armymail.contact us.</td>
 
